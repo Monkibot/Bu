@@ -124,7 +124,7 @@ const connectionOptions = {
         logger: pino({ level: 'silent' }),
         printQRInTerminal: !pairingCode, 
         mobile: useMobile, 
-        browser: ['Larios.Psd (Linux)', '', ''],
+        browser: ['𝙱𝚄 𝚇 𝙳𝙰𝙵𝙽𝙴 (Linux)', '', ''],
         auth: {
             creds: state.creds,
             keys: makeCacheableSignalKeyStore(state.keys, Pino({ level: "fatal" }).child({ level: "fatal" })),
@@ -512,7 +512,7 @@ setInterval(async () => {
   if (stopped === 'close' || !conn || !conn.user) return;
   const _uptime = process.uptime() * 1000;
   const uptime = clockString(_uptime);
-  const bio = `𝐓𝐢𝐞𝐦𝐩𝐨 𝐀𝐜𝐭𝐢𝐯𝐨 🤖: ${uptime} ┃ 𝐂𝐫𝐞𝐚𝐝𝐨𝐫: 𝐋𝐚𝐫𝐢𝐨𝐬.𝐏𝐬𝐝 ⚙️ ┃ `;
+  const bio = `𝐓𝐢𝐞𝐦𝐩𝐨 𝐀𝐜𝐭𝐢𝐯𝐨 🤖: ${uptime} 𝙱𝚄 𝚇 𝙳𝙰𝙵𝙽𝙴 `;
   await conn.updateProfileStatus(bio).catch((_) => _);
 }, 60000);
 function clockString(ms) {
