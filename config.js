@@ -45,10 +45,10 @@ global.igfg = '𝙱𝚄 𝚇 𝙳𝙰𝙵𝙽𝙴 ⚙️';
 global.wait = '*❗ Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*';
 
 global.imagen1 = fs.readFileSync('./Larios.PNG');
-global.imagen2 = fs.readFileSync('./src/Larios.PNG');
-global.imagen3 = fs.readFileSync('./src/Larios.PNG');
+global.imagen2 = fs.readFileSync('./src/BOTBU.PNG');
+global.imagen3 = fs.readFileSync('./src/BOTBU.PNG');
 global.imagen4 = fs.readFileSync('./Larios.PNG');
-global.imagen5 = fs.readFileSync('./src/Larios.PNG');
+global.imagen5 = fs.readFileSync('./src/BOTBU.PNG');
 global.imagen6 = fs.readFileSync('./Larios.PNG');
 
 global.mods = [];
@@ -63,10 +63,10 @@ global.año = d.toLocaleDateString('es', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
 global.wm2 = `▸ ${dia} ${fecha}\n▸ 𝙱𝚄 𝚇 𝙳𝙰𝙵𝙽𝙴 ⚙️`;
-global.gt = 'Costeño.X ⚙️';
+global.gt = '𝙱𝚄 𝚇 𝙳𝙰𝙵𝙽𝙴 ⚙️';
 global.mysticbot = ' 𝙱𝚄 𝚇 𝙳𝙰𝙵𝙽𝙴 ⚙️';
-global.md = 'https://github.com/Bots-Larios/Larios-V2.0';
-global.mysticbot = 'https://github.com/Bots-Larios/Larios-V2.0';
+global.md = 'https://github.com/Monkibot';
+global.mysticbot = 'https://github.com/Monkibot';
 global.waitt = '*[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*';
 global.waittt = '*[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*';
 global.waitttt = '*[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*';
