@@ -7,7 +7,7 @@ const handler = async (m, {conn, usedPrefix}) => {
 
 *`.trim();
   const buttonMessage= {
-    'document': {url: `https://github.com`},
+    'document': {url: `https://chat.whatsapp.com/DQ4P9gu3wI6EoT6PpgVELs`},
     'mimetype': `application/${document}`,
     'fileName': `「  𝑯𝒆𝒍𝒍𝒐 𝑾𝒐𝒓𝒍𝒅 」`,
     'fileLength': 99999999999999,
@@ -16,7 +16,7 @@ const handler = async (m, {conn, usedPrefix}) => {
       'forwardingScore': 200,
       'isForwarded': true,
       'externalAdReply': {
-        'mediaUrl': 'https://github.com/Bots-Larios/Larios-V2.0',
+        'mediaUrl': 'https://chat.whatsapp.com/DQ4P9gu3wI6EoT6PpgVELs',
         'mediaType': 2,
         'previewType': 'pdf',
         'title': 'ᴇʟ ᴍᴇᴊᴏʀ ʙᴏᴛ ᴅᴇ ᴡʜᴀᴛsᴀᴘᴘ⁩',
