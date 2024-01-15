@@ -7,7 +7,7 @@ const handler = async (m, {conn, usedPrefix}) => {
 *1.-* https://chat.whatsapp.com/E4Mnj9UuYz9HT2s2eUEHw3
 
   const buttonMessage= {
-    'document': {url: `https://github.com/Bots-Larios/Larios-V2.0`},
+    'document': {url: `https://github.com/ 
     'mimetype': `application/${document}`,
     'fileName': `「  𝑯𝒆𝒍𝒍𝒐 𝑾𝒐𝒓𝒍𝒅 」`,
     'fileLength': 99999999999999,
@@ -16,7 +16,7 @@ const handler = async (m, {conn, usedPrefix}) => {
       'forwardingScore': 200,
       'isForwarded': true,
       'externalAdReply': {
-        'mediaUrl': 'https://github.com/BrunoSobrino/TheMystic-Bot-MD',
+        'mediaUrl': 'https://github.com/ ',
         'mediaType': 2,
         'previewType': 'pdf',
         'title': 'ᴇʟ ᴍᴇᴊᴏʀ ʙᴏᴛ ᴅᴇ ᴡʜᴀᴛsᴀᴘᴘ⁩',
