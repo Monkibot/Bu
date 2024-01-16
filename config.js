@@ -45,10 +45,10 @@ global.igfg = '𝙱𝚄 𝚇 𝙳𝙰𝙵𝙽𝙴 ⚙️';
 global.wait = '*❗ Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*';
 
 global.imagen1 = fs.readFileSync('./Larios.PNG');
-global.imagen2 = fs.readFileSync('./src/BOTBU.PNG');
-global.imagen3 = fs.readFileSync('./src/BOTBU.PNG');
+global.imagen2 = fs.readFileSync('./src/BOTBU.png');
+global.imagen3 = fs.readFileSync('./src/BOTBU.png');
 global.imagen4 = fs.readFileSync('./Larios.PNG');
-global.imagen5 = fs.readFileSync('./src/BOTBU.PNG');
+global.imagen5 = fs.readFileSync('./src/BOTBU.png');
 global.imagen6 = fs.readFileSync('./Larios.PNG');
 
 global.mods = [];
